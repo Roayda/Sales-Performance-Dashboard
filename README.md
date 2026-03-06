@@ -25,8 +25,6 @@ Coming from a Software Engineering and Frontend background, my goal was not only
 
 ## 🖼️ Dashboard Previews
 
-*(📌 Note: Replace the links below with the actual paths to your images)*
-
 ### 1. Main Overview
 ![Overview Dashboard](Media/p2.png)
 
